@@ -1,0 +1,58 @@
+﻿  Bullet.cpp
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Bullet.cpp(21,29): warning C4244: 'return': conversion from 'const T' to 'int', possible loss of data
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Bullet.cpp(21,29): warning C4244:         with
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Bullet.cpp(21,29): warning C4244:         [
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Bullet.cpp(21,29): warning C4244:             T=float
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Bullet.cpp(21,29): warning C4244:         ]
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Bullet.cpp(25,29): warning C4244: 'return': conversion from 'const T' to 'int', possible loss of data
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Bullet.cpp(25,29): warning C4244:         with
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Bullet.cpp(25,29): warning C4244:         [
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Bullet.cpp(25,29): warning C4244:             T=float
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Bullet.cpp(25,29): warning C4244:         ]
+  Explosion.cpp
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Explosion.cpp(14,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Explosion.cpp(14,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Game.cpp
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Game.cpp(29,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Game.cpp(61,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Game.cpp(66,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Game.cpp(70,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Game.cpp(75,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Game.cpp(79,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Game.cpp(259,114): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Game.cpp(259,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Game.cpp(287,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Game.cpp(287,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Game.cpp(335,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Game.cpp(343,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Invader.cpp
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Invader.cpp(108,32): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Invader.cpp(112,29): warning C4244: 'return': conversion from 'const T' to 'int', possible loss of data
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Invader.cpp(112,29): warning C4244:         with
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Invader.cpp(112,29): warning C4244:         [
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Invader.cpp(112,29): warning C4244:             T=float
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Invader.cpp(112,29): warning C4244:         ]
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Invader.cpp(116,29): warning C4244: 'return': conversion from 'const T' to 'int', possible loss of data
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Invader.cpp(116,29): warning C4244:         with
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Invader.cpp(116,29): warning C4244:         [
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Invader.cpp(116,29): warning C4244:             T=float
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Invader.cpp(116,29): warning C4244:         ]
+  main.cpp
+  Player.cpp
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Player.cpp(53,32): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Player.cpp(57,29): warning C4244: 'return': conversion from 'const T' to 'int', possible loss of data
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Player.cpp(57,29): warning C4244:         with
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Player.cpp(57,29): warning C4244:         [
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Player.cpp(57,29): warning C4244:             T=float
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Player.cpp(57,29): warning C4244:         ]
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Player.cpp(61,29): warning C4244: 'return': conversion from 'const T' to 'int', possible loss of data
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Player.cpp(61,29): warning C4244:         with
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Player.cpp(61,29): warning C4244:         [
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Player.cpp(61,29): warning C4244:             T=float
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Player.cpp(61,29): warning C4244:         ]
+  Shield.cpp
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Shield.cpp(14,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Shield.cpp(14,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+C:\Users\Evgenii\Downloads\Space-Invaders-master\Space_Invaders\Invader.cpp(130): warning C4715: 'Invader::getScoreValue': not all control paths return a value
+  Space_Invaders.vcxproj -> C:\Users\Evgenii\Downloads\Space-Invaders-master\x64\Debug\Space_Invaders.exe
